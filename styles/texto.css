@@ -1,0 +1,30 @@
+#noticias{
+    background-color: whitesmoke;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 800px;
+    height: 500px;
+}
+#textos{
+    font-size: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    width: 500px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+#textos > p{
+    width: 450px;
+}
+
+#nome_t{
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+#negado{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 200px;
+    transform: rotate(-5deg);
+
+}
